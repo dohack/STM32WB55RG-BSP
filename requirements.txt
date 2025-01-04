@@ -1,0 +1,19 @@
+# Hardware Requirements
+STM32WB55RG Development Board (e.g., Nucleo-64, custom board with STM32WB55RG MCU)
+ST-Link/V2 Debugger/Programmer
+
+# Software Requirements
+STM32CubeIDE       # Integrated Development Environment for STM32
+STM32CubeMX       # Configuration tool for STM32 microcontrollers
+ARM GCC Toolchain   # Compiler toolchain for STM32
+CMake             # Build system generator (optional, if using CMake)
+
+# Middleware & Libraries
+STM32Cube WB Framework     # STM32 Cube middleware specific for STM32WB series
+FreeRTOS        # Real-Time Operating System (optional, if used)
+ST-LINK USB Driver         # USB driver for ST-Link
+
+# Optional Tools
+Python            # For automation scripts or flashing (if applicable)
+stlink                    # Flashing tool to interface with STM32 via ST-Link
+pyserial                  # Python library for serial communication (optional)
