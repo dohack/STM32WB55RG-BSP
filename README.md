@@ -1,9 +1,11 @@
 
 ---
 
-# STM32WB55RG Board Support Package (BSP)
+# myBlueLink STM32WB55RG Board Support Package (BSP)
 
 ## Overview
+
+Welcome to myBlueLink, the open-source development board for BLE, Zigbee, Matter, and more! Whether you're a hobbyist, engineer, or student, myBlueLink provides a versatile platform for prototyping, experimentation, and innovation in wireless communication,based on STM32WB55RG.
 
 The **STM32WB55RG Board Support Package (BSP)** provides a comprehensive set of hardware abstraction layers, drivers, and middleware for the **STM32WB55RG** microcontroller. This package enables rapid development of embedded applications leveraging the Bluetooth, Wi-Fi, and other peripheral capabilities of the STM32WB55 series.
 
